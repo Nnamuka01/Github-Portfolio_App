@@ -7,15 +7,15 @@
   <li><a href="">Live Site Link</a></li>
   <li><a href="">Screenshots</a></li>
 </ul>
+<a href="">My Process</a>
 <ul>
-  <h2><a href="">My Process</a></h2>
   <li><a href="">Technologies Used</a></li>
   <li><a href="">Useful Resources</a></li>
   <li><a href="">What i learned</a></li>
 </ul>
-<ul>
-  <a href="Owner"></a>
-</ul>
+
+ <a href="Owner"></a>
+
 
 
 
