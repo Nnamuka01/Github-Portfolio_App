@@ -3,7 +3,7 @@
 <h2>Table of contents</h2>
 <a href="">Overview</a>
 <ul>
-  <li><a href="pq">Project Question</a></li>
+  <li><a href="#pq">Project Question</a></li>
   <li><a href="#ls">Live Site Link</a></li>
 </ul>
 <a href="">My Process</a>
@@ -19,7 +19,7 @@
 <p>Implement a Web App using GitHub API to fetch your GitHub repositories portfolio, show a page listing all your repositories on GitHub with pagination enabled.Implement Search and Filter. Create another page showing data for a single repo when clicked from the page. Show all repos using nested routes while using all the necessary tools in React.    Implement an Error Boundary (show a page to test the error boundary), a 404 page  (show a page to test the 404 page).Good Layout, UI, and Designs are essential. Accessibility techniques taught in semester one are Important.</p>
 <h2 id="ls">Link</h2>
 <ul>
-  <li>Live Site URL:<a href=""></a></li>
+  <li>Live Site URL:<a href="https://github-portfolio-app-beryl.vercel.app/">https://github-portfolio-app-beryl.vercel.app/</a></li>
 </ul>
 <h2 id="to">Built with</h2>
 <ul>
@@ -44,7 +44,7 @@
 </ul>
 <h2 id="or">Owner</h2>
 <ul>
-  <li>Twitter: <a href="https://@Kakatrenches.twitter.com"></li>
+  <li>Twitter: <a href="https://@Kakatrenches.twitter.com">https://@Kakatrenches.twitter.com</li>
 </ul>
 
 
