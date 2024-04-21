@@ -44,7 +44,7 @@
 </ul>
 <h2 id="or">Owner</h2>
 <ul>
-  <li>Twitter: <a href="https://@Kakatrenches.twitter.com">https://@Kakatrenches.twitter.com</li>
+  <li>Twitter: <a href="https://twitter.com/Kakatrenches"></a></li>
 </ul>
 
 
